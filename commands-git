@@ -1,2 +1,0 @@
- git clone [url repo]
-git add --all / git commit -m [commentaire du commit] / git push
